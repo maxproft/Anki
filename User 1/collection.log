@@ -8014,3 +8014,5 @@
 [1456223422] cards.py:flush(): {'crt': 1456223422, 'data': '', 'did': 1454975798575, 'due': 449, 'factor': 0, 'flags': 0, 'id': 1456223422077, 'ivl': 0, 'lapses': 0, 'left': 0, 'mod': 1456223422, 'nid': 1456223417540, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 0, 'reps': 0, 'type': 0, 'usn': -1}
 [1456223849] cards.py:flush(): {'crt': 1456223849, 'data': '', 'did': 1454975798575, 'due': 560, 'factor': 0, 'flags': 0, 'id': 1456223849733, 'ivl': 0, 'lapses': 0, 'left': 0, 'mod': 1456223849, 'nid': 1456223422081, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 0, 'reps': 0, 'type': 0, 'usn': -1}
 [1456229611] sched.py:unburyCards(): []
+[1456233574] collection.py:__init__(): /home/max/Anki/User 1/collection.anki2, 2.0.33
+[1456233575] sched.py:_updateCutoff(): 255, 1456250400
