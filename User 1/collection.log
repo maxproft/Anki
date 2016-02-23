@@ -8016,3 +8016,10 @@
 [1456229611] sched.py:unburyCards(): []
 [1456233574] collection.py:__init__(): /home/max/Anki/User 1/collection.anki2, 2.0.33
 [1456233575] sched.py:_updateCutoff(): 255, 1456250400
+[1456234450] collection.py:__init__(): /home/max/Anki/User 1/collection.anki2, 2.0.33
+[1456234450] sched.py:_updateCutoff(): 255, 1456250400
+[1456234458] sched.py:getCard(): {'data': u'', 'did': 1454975798575L, 'due': 255, 'factor': 2800, 'flags': 0, 'id': 1454977882812L, 'ivl': 9, 'lapses': 0, 'left': 2002, 'mod': 1455433798, 'nid': 1454977876961L, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 2, 'reps': 3, 'type': 2, 'usn': -1}
+[1456234468] sched.py:getCard(): {'data': u'', 'did': 1455533936424L, 'due': 255, 'factor': 2200, 'flags': 0, 'id': 1455534122213L, 'ivl': 4, 'lapses': 0, 'left': 2002, 'mod': 1455846154, 'nid': 1455534117464L, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 2, 'reps': 3, 'type': 2, 'usn': -1}
+[1456234478] sched.py:answerCard(): 
+[1456234478] cards.py:flushSched(): {'data': u'', 'did': 1455533936424L, 'due': 259, 'factor': 2050, 'flags': 0, 'id': 1455534122213L, 'ivl': 4, 'lapses': 0, 'lastIvl': 4, 'left': 2002, 'mod': 1456234478, 'nid': 1455534117464L, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 2, 'reps': 4, 'type': 2, 'usn': -1, 'wasNew': False}
+[1456234478] sched.py:getCard(): {'data': u'', 'did': 1455533936424L, 'due': 193, 'factor': 0, 'flags': 0, 'id': 1456219119850L, 'ivl': 0, 'lapses': 0, 'left': 0, 'mod': 1456219119, 'nid': 1456209567365L, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 0, 'reps': 0, 'type': 0, 'usn': -1}
